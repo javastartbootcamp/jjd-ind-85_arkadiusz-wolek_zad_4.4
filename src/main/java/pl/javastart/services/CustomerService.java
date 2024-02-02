@@ -1,4 +1,4 @@
-package pl.javastart.task;
+package pl.javastart.services;
 
 public class CustomerService {
     public void payoutOffer(Offer offer) {
